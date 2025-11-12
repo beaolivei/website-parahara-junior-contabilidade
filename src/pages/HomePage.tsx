@@ -1,4 +1,3 @@
-// Fix: Import useEffect hook from React.
 import React, { useEffect } from 'react';
 import Hero from '../components/Hero';
 import About from '../components/About';
